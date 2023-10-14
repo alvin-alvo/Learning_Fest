@@ -18,7 +18,6 @@ body{
     width: 300px;
     opacity: 95%;
     border-radius: 10px;
-
 }
 h2{
     text-align: center ;
@@ -36,6 +35,7 @@ input{
     border-radius: 20px;
     background-color: rgba(180, 180, 180, 0.534);
     height: 25px;
+    width: 200px:
 }
 button{
     height: 35px;
